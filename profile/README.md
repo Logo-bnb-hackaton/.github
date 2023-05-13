@@ -20,16 +20,22 @@ This repository contains smart contracts of the platform.
 
 This repository contains the main backend of the platform.
 
-[link](https://github.com/Logo-bnb-hackaton/nodde-backend)
+[Sequence diagrams](https://elated-couch-eca.notion.site/Backend-56e08b8188634ff0b2939ddb7cf1ec84)
+
+[Repository link](https://github.com/Logo-bnb-hackaton/nodde-backend)
 
 ### Telegram Bot
 
 This repository contains a backend for interacting with Telegram.
 
-[link](https://github.com/Logo-bnb-hackaton/community-telegram-lambdas)
+[Sequence diagrams](https://elated-couch-eca.notion.site/Backend-56e08b8188634ff0b2939ddb7cf1ec84)
+
+[Repository link](https://github.com/Logo-bnb-hackaton/community-telegram-lambdas)
 
 ### Frontent
 
 This repository contains the platform frontend and serverside renderer.
 
-[link](https://github.com/Logo-bnb-hackaton/community-front)
+[Site here](https://community-front-henna.vercel.app/)
+
+[Repository link](https://github.com/Logo-bnb-hackaton/community-front)
