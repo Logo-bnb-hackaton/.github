@@ -12,7 +12,9 @@ Web3 platform for receiving donations and promoting paid content.
 
 This repository contains smart contracts of the platform.
 
-[link](https://github.com/Logo-bnb-hackaton/smart-contracts)
+[Detail description](https://elated-couch-eca.notion.site/Smart-Contract-5063c1d752364e23ad0611c2e64f30d5)
+
+[Repository link](https://github.com/Logo-bnb-hackaton/smart-contracts)
 
 ### Nodde Backend
 
