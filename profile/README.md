@@ -1,6 +1,6 @@
 # NODDE
 
-Web3 platform for receiving donations and promoting paid content.
+Web3 platform for receiving donations and promoting paid content. Full project description you can find [here](https://elated-couch-eca.notion.site/Full-presentation-cc5fae9085d74dae97002608c9cc056a)
 
 ## High Level Architercture Diagram
 
