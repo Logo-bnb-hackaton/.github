@@ -1,5 +1,7 @@
 # NODDE
 
+![изображение](https://github.com/nodde-web3/.github/assets/10999015/fd3ad854-e46c-4caf-9e07-f2240841047f)
+
 Web3 platform for receiving donations and promoting paid content. 
 
 Full project description you can find [here](https://elated-couch-eca.notion.site/Full-presentation-cc5fae9085d74dae97002608c9cc056a)
