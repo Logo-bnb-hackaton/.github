@@ -18,18 +18,29 @@ Full project description you can find [here](https://elated-couch-eca.notion.sit
 ## Build With
 
 - React 
+
   Form, Hooks, Drop Image
+  
 - Next.js
+
 - Rainbowkit
+
   Wallet UI
+  
 - Current Blockchains
+
   BNB Chain (Testnet)  
+  
 - Amazon Web Services
+ 
   Lambdas, Dynamo DB, S3, CloudWatch
+  
 - Uniswap V3
+
   Convert tokens when donate to an author
 - Chainlink  
-  Use in donates statistics to display crypto -> fiat equivalent
+
+  We use chainlink in donates statistics to display rewards in crypto -> fiat equivalent 
 
 ## High Level Architercture Diagram
 
