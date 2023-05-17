@@ -89,12 +89,17 @@ Binance Smart Chain:
 - NFT Profile Contract
 [0x66e8cf86ae35a96e4b67021689b4fcf47c3267c5](https://testnet.bscscan.com/address/0x66e8cf86ae35a96e4b67021689b4fcf47c3267c5#code)
 
+- Dynamic on-chain NFT Contract
+[0x925c493975aE018bCf77dDc25290869a56671dBf](https://testnet.bscscan.com/address/0x925c493975aE018bCf77dDc25290869a56671dBf#code)
+
 - Donations Contract
 [0x1F143C116A4B4E4AC650BE248BE8F4d1C935Ed3C](https://testnet.bscscan.com/address/0x1F143C116A4B4E4AC650BE248BE8F4d1C935Ed3C#code)
 
 - Subscrioption Contract
 [0xc65136CA205FbefBcB30466dD62A742a1B372327](https://testnet.bscscan.com/address/0xc65136CA205FbefBcB30466dD62A742a1B372327#code)
 
+Dynamic on-chain NFT collection is presented on OpenSea
+[The NODDE Dynamic NFT](https://testnets.opensea.io/collection/the-nodde-dynamic-nft)
 
 ### Nodde Backend
 
